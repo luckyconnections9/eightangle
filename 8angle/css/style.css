@@ -1,0 +1,47 @@
+.table-striped > tbody > tr:nth-of-type(2n+1) {
+    background-color: lightgray;
+}
+
+.table-bordered > thead > tr > th, .table-bordered > tbody > tr > th, .table-bordered > tfoot > tr > th, .table-bordered > thead > tr > td, .table-bordered > tbody > tr > td, .table-bordered > tfoot > tr > td {
+    border: 1px solid lightgray;
+}
+
+.receipt {
+	
+	font-size:12px;
+	
+}
+
+.receipt .form-group {
+	
+	margin: 5px;
+	
+}
+.has-feedback .form-control {
+    padding-right: 5px !important;
+}
+
+#btn-po .btn-app {
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    color: #666;
+    font-size: 12px;
+    margin: 0 0 2px 2px;
+    min-width: 10px;
+    padding: 2px;
+    position: relative;
+    text-align: center;
+}
+.modal-dialog {
+    width: auto !important;
+}
+.register-box {
+  width: 90% !important;
+  margin: 1% auto !important;
+}
+
+#errordata {
+	color: red !important;
+	padding:4px;
+}
