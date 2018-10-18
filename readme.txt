@@ -1,4 +1,4 @@
-<h1>8angle</h1>
+8angle
 
 Full Fledge ERP with Ecommerce Platform
 
