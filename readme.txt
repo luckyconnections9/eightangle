@@ -15,4 +15,4 @@ register yourself .....
 Single user
 Multi Companies
 
-for more details:- https://eightangle.com/
+for more details: https://eightangle.com
